@@ -1,0 +1,9 @@
+@import "./config/variables";
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('../fonts/clear-sans-200-normal.woff2') format('woff2'), url('../fonts/clear-sans-200-normal.woff') format('woff'), url('../fonts/clear-sans-200-normal.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: $font-display-clear-sans;
+}
