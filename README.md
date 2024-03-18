@@ -1,4 +1,4 @@
-# WebFont Exo 2
+# WebFont Clear Sans
 
 Package for integrating `Clear Sans` fonts in a web environment.
 
