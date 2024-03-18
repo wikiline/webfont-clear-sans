@@ -1,0 +1,42 @@
+{
+  "name": "@wikiline/webfont-clear-sans",
+  "version": "1.0.0",
+  "description": "Package for integrating WebFont Clear Sans",
+  "main": "css/all.css",
+  "files": [
+    "css/*.css",
+    "fonts/*.{woff,woff2,ttf}",
+    "less/**/*.less",
+    "scss/**/*.scss"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikiline/webfont-clear-sans.git"
+  },
+  "keywords": [
+    "clear-sans",
+    "font",
+    "typeface",
+    "webfont",
+    "woff",
+    "woff2",
+    "css",
+    "less",
+    "scss"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wikiline/webfont-clear-sans/issues"
+  },
+  "homepage": "https://github.com/wikiline/webfont-clear-sans#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
